@@ -63,6 +63,7 @@
 					<password>870406js</password>
 					<!-- 一定要指定目标，想看可用目标，注释此行执行，看控制台报错信息-->
 					<goals>package</goals>
+					<tag>0.0.1-SNAPSHOT.tag</tag>
 				</configuration>
 			</plugin>
 		</plugins>
